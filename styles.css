@@ -1,0 +1,37 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.body{
+    width: 21%;
+    background-color: hsl(0, 0%, 100%);
+    position: relative;
+    top: 2rem;
+    left: 27rem;
+    padding: 1rem;
+    border-radius: 5%;
+    
+
+}
+.body-img{
+    height: 15rem;
+    width: 14rem;
+    display: block;
+    border-radius: 3%;
+
+}
+.bold-text{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    width: 90%;
+    text-align: center;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+    color:  hsl(218, 44%, 22%);
+}
+.text{
+    font-family:'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    padding-bottom: 0.5rem;
+}
